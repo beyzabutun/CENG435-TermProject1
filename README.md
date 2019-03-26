@@ -2,10 +2,6 @@
 Data Communication and Networking
 
 
-Beyza Bütün
-Soner Durmaz
-
-
 Please use python 2.7.6
 
 Experiment 1:
